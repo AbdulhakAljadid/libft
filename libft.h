@@ -6,7 +6,7 @@
 /*   By: aaljadid <aaljadid@student.42abudhabi.a    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/16 09:52:39 by aaljadid          #+#    #+#             */
-/*   Updated: 2026/10/17 11:33:33 by aaljadid         ###   ########.fr       */
+/*   Updated: 2026/10/17 13:01:21 by aaljadid         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,4 +23,5 @@ int		ft_isascii(int c);
 int		ft_isprint(int c);
 int		ft_strlen(char *str);
 void	*ft_memset(void *s, int c, size_t n);
+void	bzero(void *s, size_t n);
 #endif
