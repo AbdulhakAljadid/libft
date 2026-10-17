@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
-/*                                                       :::      ::::::::    */
-/*   libft.h                                           :+:      :+:    :+:    */
-/*                                                   +:+ +:+         +:+      */
-/*   By: aaljadid <aaljadid@student.42abudhabi.ae> #+#  +:+       +#+         */
-/*                                               +#+#+#+#+#+   +#+            */
-/*   Created: 2026/10/16 09:52:39 by aaljadid         #+#    #+#              */
-/*   Updated: 2026/10/16 10:52:32 by aaljadid        ###   ########.fr        */
+/*                                                        :::      ::::::::   */
+/*   libft.h                                            :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: aaljadid <aaljadid@student.42abudhabi.a    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2026/10/16 09:52:39 by aaljadid          #+#    #+#             */
+/*   Updated: 2026/10/17 11:33:33 by aaljadid         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,10 +15,12 @@
 
 # include <unistd.h>
 # include <stdio.h>
-int	ft_isalnum(int c);
-int	ft_isalpha(int c);
-int	ft_isdigit(int c);
-int	ft_isascii(int c);
-int	ft_isprint(int c);
-int	ft_strlen(char *str);
+
+int		ft_isalnum(int c);
+int		ft_isalpha(int c);
+int		ft_isdigit(int c);
+int		ft_isascii(int c);
+int		ft_isprint(int c);
+int		ft_strlen(char *str);
+void	*ft_memset(void *s, int c, size_t n);
 #endif
