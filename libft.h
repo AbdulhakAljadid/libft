@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   libft.h                                            :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: aaljadid <aaljadid@student.42abudhabi.a    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/10/16 09:52:39 by aaljadid          #+#    #+#             */
-/*   Updated: 2026/10/17 13:33:01 by aaljadid         ###   ########.fr       */
+/*                                                       :::      ::::::::    */
+/*   libft.h                                           :+:      :+:    :+:    */
+/*                                                   +:+ +:+         +:+      */
+/*   By: username <username@student.42tokyo.jp>    #+#  +:+       +#+         */
+/*                                               +#+#+#+#+#+   +#+            */
+/*   Created: 2026/10/16 09:52:39 by username         #+#    #+#              */
+/*   Updated: 2026/11/12 08:31:51 by username        ###   ########.fr        */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,4 +25,5 @@ int		ft_strlen(char *str);
 void	*ft_memset(void *s, int c, size_t n);
 void	bzero(void *s, size_t n);
 void	*ft_memcpy(void *dest, const void *src, size_t n);
+size_t	ft_strlcpy(char *dst, const char *src, size_t size);
 #endif
