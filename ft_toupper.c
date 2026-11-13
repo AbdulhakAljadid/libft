@@ -3,10 +3,10 @@
 /*                                                       :::      ::::::::    */
 /*   ft_toupper.c                                      :+:      :+:    :+:    */
 /*                                                   +:+ +:+         +:+      */
-/*   By: username <username@student.42tokyo.jp>    #+#  +:+       +#+         */
+/*   By: aaljadid <aaljadid@student.42abudhabi.ae> #+#  +:+       +#+         */
 /*                                               +#+#+#+#+#+   +#+            */
-/*   Created: 2026/11/12 13:11:02 by username         #+#    #+#              */
-/*   Updated: 2026/11/12 13:19:01 by username        ###   ########.fr        */
+/*   Created: 2026/11/12 13:11:02 by aaljadid         #+#    #+#              */
+/*   Updated: 2026/11/13 18:44:06 by aaljadid        ###   ########.fr        */
 /*                                                                            */
 /* ************************************************************************** */
 

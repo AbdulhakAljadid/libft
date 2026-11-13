@@ -3,10 +3,10 @@
 /*                                                       :::      ::::::::    */
 /*   libft.h                                           :+:      :+:    :+:    */
 /*                                                   +:+ +:+         +:+      */
-/*   By: username <username@student.42tokyo.jp>    #+#  +:+       +#+         */
+/*   By: aaljadid <aaljadid@student.42abudhabi.ae> #+#  +:+       +#+         */
 /*                                               +#+#+#+#+#+   +#+            */
-/*   Created: 2026/10/16 09:52:39 by username         #+#    #+#              */
-/*   Updated: 2026/11/12 13:59:53 by username        ###   ########.fr        */
+/*   Created: 2026/10/16 09:52:39 by aaljadid         #+#    #+#              */
+/*   Updated: 2026/11/13 18:44:01 by aaljadid        ###   ########.fr        */
 /*                                                                            */
 /* ************************************************************************** */
 
